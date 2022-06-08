@@ -4,7 +4,8 @@ This is the implementation of [BNUDC: A Two-Branched Deep Neural Network for Res
 
 Now constructing....
 
-# Citation
+## Citation
+'''
 @InProceedings{Koh_2022_CVPR,
     author    = {Koh, Jaihyun and Lee, Jangho and Yoon, Sungroh},
     title     = {BNUDC: A Two-Branched Deep Neural Network for Restoring Images From Under-Display Cameras},
@@ -13,3 +14,4 @@ Now constructing....
     year      = {2022},
     pages     = {1950-1959}
 }
+'''
