@@ -1,5 +1,4 @@
-# BNUDC
-BNUDC: A Two-Branched Deep Neural Network for Restoring Images from Under-Display Cameras, CVPR, 2022
+# BNUDC: A Two-Branched Deep Neural Network for Restoring Images from Under-Display Cameras, CVPR, 2022
 https://openaccess.thecvf.com/content/CVPR2022/html/Koh_BNUDC_A_Two-Branched_Deep_Neural_Network_for_Restoring_Images_From_CVPR_2022_paper.html
 
 Now constructing....
